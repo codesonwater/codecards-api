@@ -1,0 +1,55 @@
+[
+  {
+    "question": "What kind of brackets does an array use in JS?",
+    "options": ["Curly { }", "Square [ ]", "Angle < >","Circle () parentheses"],
+    "answer": "Square []",
+    "isFavorite": false,
+    "topic": "Coding Basics",
+    "topicSlug": "coding-basics"
+  },
+  {
+    "question": "A function either ____ or ____",
+    "answer": "performs a taks or returns a value ",
+    "isFavorite": false,
+    "topicSlug": "coding-basics"
+  },
+  {
+    "question": "Instead of var what are the 2 updated ways to write a variable?",
+    "answer": "const, let",
+    "isFavorite": false,
+    "topic": "Coding Basics",
+    "topicSlug": "coding-basics"
+  },
+  {
+    "question": "What value represents the first position in an array?",
+    "options": [0,1,"array.length", "array.length-1"],
+    "answer": 0,
+    "isFavorite": false,
+    "topic": "Coding Basics",
+    "topicSlug": "coding-basics"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface","Application Program Implementation","Arrayed Protocol Interface", "Area Program Interlacing"],
+    "answer": "Application Programming Interface",
+    "isFavorite": false,
+    "topic": "API",
+    "topicSlug": "api"
+  },
+  {
+    "question": "Big O notation is mainly concerned with what?",
+    "options": ["scenario testing","code validation","big arrow functions", "time complexity"],
+    "answer": "time complexity",
+    "isFavorite": false,
+    "topic": "Applied Theory",
+    "topicSlug": "applied-theory"
+  },
+  {
+    "question": "NoSQL database structure is the same as which of the following paradigm:",
+    "options": ["Relational","Graph","Document", "Wide-Column"],
+    "answer": "Document Database",
+    "isFavorite": false,
+    "topic": "Databases",
+    "topicSlug": "databases"
+  }
+]
